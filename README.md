@@ -1,0 +1,2 @@
+# FadeAuto
+yes
